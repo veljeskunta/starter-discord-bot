@@ -1,6 +1,6 @@
 {
   "name": "starter-discord-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/korostelevm/starter-discord-bot.git"
+    "url": "git+https://github.com/veljeskunta/starter-discord-bot"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/korostelevm/starter-discord-bot/issues"
+    "url": "https://github.com/veljeskunta/starter-discord-bot/issues"
   },
-  "homepage": "https://github.com/korostelevm/starter-discord-bot#readme",
+  "homepage": "https://github.com/veljeskunta/starter-discord-bot#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "body-parser": "^1.20.0",
